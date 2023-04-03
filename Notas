@@ -1,0 +1,23 @@
+La etiqueta h1 solo se debe usar una vez para respetar la semantica
+
+Etiqueta title se refiere al titulo que se ve en la ventana del navegador
+
+Las etiquetas <p> son parrafos;
+
+Lorem para probar textos;
+
+Etiqueta <div> para dividir headers y parrafos para asignarlos en este;
+
+<span> para dar subdivisiones en divs;
+
+ <br> para salto de lìnea, solo una etiqueta para este;
+
+ <hr> una linea horizontal;
+
+ <blockquote cite ="https://www.tulink.com">Un parrafo con cita</blockquote>
+ 
+ <strong> negrita; <wbr>para que no se corte;<mark> para resaltar;
+   
+    
+
+
