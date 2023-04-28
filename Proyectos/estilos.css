@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
+
+header{
+    background-color: 2A2F4F;
+}
+header img{
+    max-width: 300px;
+	height: auto;
+    border-radius: 50%;
+    
+}
+
+
+body{
+    font: 100 20px roboto;
+    background-color: DFD3C3;
+
+}
+footer{
+    font:100 20px roboto;
+    text-align: right;
+    background-color: D0B8A8;
+ }
+
+.desc{
+    background-color: DFD3C3;
+    text-align: center;
+}
+
+h1{
+    font: 100 40px roboto;
+    text-align: center;
+
+
+}
+
+h3{
+    font: 100 30px roboto;
+}
+
+footer img{
+    max-width: 50;
+    max-height: 50;
+}
+
+ 
